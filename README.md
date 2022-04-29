@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi! I'm NCBM (NhanchouBaimin, a.k.a. worldmozara) 👋
 
 <!--
 **NCBM/NCBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Overview
+
+### My status
+
+![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCBM&&layout=compact)
+
+![My stats](https://github-readme-stats.vercel.app/api?username=NCBM&show_icons=true&count_private=true&include_all_commits=true)
+
+### Language
+
+- Python
+- C
+
+### Contact me
+
+- Email: worldmozara@gmail.com worldmozara@163.com
+- QQ: 2034154770
