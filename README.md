@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### My status
 
-![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCBM&&layout=compact)
+![My top Langs](https://github-readme-stats-mu-cyan-36.vercel.app/api/top-langs/?username=NCBM&&layout=compact)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=NCBM&show_icons=true&count_private=true&include_all_commits=true)
+![My stats](https://github-readme-stats-mu-cyan-36.vercel.app/api?username=NCBM&show_icons=true&count_private=true&include_all_commits=true)
 
 ### Language
 
