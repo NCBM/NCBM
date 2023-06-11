@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 ### Contact me
 
 - Email: worldmozara@gmail.com worldmozara@163.com
-- QQ: 2034154770
