@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ### My status
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
 
 <!--
 
