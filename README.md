@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 
 ### My status
 
+![Metrics](/github-metrics.svg)
+
+<!--
+
 ![My top Langs](https://github-readme-stats-mu-cyan-36.vercel.app/api/top-langs/?username=NCBM&&layout=compact)
 
 ![My stats](https://github-readme-stats-mu-cyan-36.vercel.app/api?username=NCBM&show_icons=true&count_private=true&include_all_commits=true)
+
+-->
 
 ### Language
 
