@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 -->
 
-### Language
-
-- Python
-- C
-
 ### Contact me
 
 - Email: worldmozara@gmail.com worldmozara@163.com
