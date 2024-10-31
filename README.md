@@ -1,4 +1,6 @@
-# Hi! I'm NCBM (NhanchouBaimin, a.k.a. worldmozara) 👋
+# Hi! I'm NCBM (Nhanchou Baiminh, a.k.a. worldmozara) 👋
+
+A normal person.
 
 <!--
 **NCBM/NCBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
